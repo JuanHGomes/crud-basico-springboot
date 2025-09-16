@@ -22,6 +22,7 @@ Manipulação global de exceções para fornecer respostas de erro padronizadas,
 API RESTful: Implementação seguindo os princípios REST para uma comunicação eficiente e escalável.
 
 🚀 Tecnologias Utilizadas
+
 Linguagem: Java 21
 
 Framework: Spring Boot
